@@ -1,1 +1,1 @@
-# firstSprintBootApp
+# firstSpringBootApp
